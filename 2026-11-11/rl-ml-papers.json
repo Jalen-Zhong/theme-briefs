@@ -20,6 +20,22 @@
         "未打开 NeurIPS 2026 议程或论文集页面"
       ],
       "important_points": []
+    },
+    {
+      "slot": "18:00",
+      "important": false,
+      "headline": "11月11日日榜已打开；新抬密集过程奖励、后期训练策略优化理论、ExRL 等预印本",
+      "x_circulation": "论文编号的独立讨论，仍远低于公司和地缘主题。A Theory of Policy Optimization 的可核对主帖，是作者之一 @nanjiang_cs 在 13:12（上海时间）发的介绍，采样时有 46 个赞、8 次转发。Are Dense Rewards Worth Their Tokens in GRPO? 在截稿前两小时内出现很少量帖子，讨论刚刚开始，量很小。ExRL 几乎没有形成讨论。EVAThink、WM-PPO、Third Eye、The RSI Tax 按编号检索，本档未见对应的 X 讨论。InfraRSI 今早之后有少量跟帖，主要是账号 @Xudong07452910 在 11:23（上海时间）发的中文介绍。",
+      "public_record": "Hugging Face 11月11日日榜已经独立打开，共 22 篇；周三的 arXiv 新目次也已经打开。本档新抬（不是今早已写过的新条目），均为预印本，尚未经过同行评审：\n\nAre Dense Rewards Worth Their Tokens in GRPO?（比较「给每一步打过程分」和标准的分组相对策略优化。分组相对策略优化是一种按最终对错给整段答案同样分数的强化学习算法。作者在对齐计算量后写，在他们的设定里，密集过程奖励的表面优势会翻转，标准算法并不更差）[2611.13560](https://arxiv.org/abs/2611.13560)，出现在 Hugging Face 11月11日日榜第 16 名和 AlphaXiv 热门列表。A Theory of Policy Optimization in Post-Training（从理论上讨论语言模型后期训练里的策略优化，指出常见方法可能出现「覆盖坍缩」：奖励看起来在提高，但模型几乎不再生成本来就能做对的回答；作者提出反复重置参考策略）[2611.14467](https://arxiv.org/abs/2611.14467)，出现在 AlphaXiv 热门列表，不在 Hugging Face 11月11日日榜。ExRL（认为对「一次输出很长一段动作」的机器人策略做在线强化学习时，直接改动作本身样本需求很高，改为只学习每段动作该执行多久）[2611.13482](https://arxiv.org/abs/2611.13482)，出现在 Hugging Face 11月11日日榜第 14 名。EVAThink（这是视频理解的训练方法，不是视频生成：让视觉语言模型根据画面证据够不够，决定是直接回答，还是先做一段推理）[2611.13907](https://arxiv.org/abs/2611.13907)，出现在 Hugging Face 11月11日日榜第 19 名。WM-PPO（把世界模型预测的下一步观察，交给近端策略优化里的价值网络去估价，让策略在真正执行之前就能比较下一步是否更接近成功）[2611.12200](https://arxiv.org/abs/2611.12200)，出现在 Hugging Face 11月11日日榜第 20 名。补充可见、不升为主条：周三新目次里还有两篇与递归自改进直接相关的预印本，尚未进入上述两个列表——Third Eye [2611.12988](https://arxiv.org/abs/2611.12988)、The RSI Tax [2611.13524](https://arxiv.org/abs/2611.13524)。\n\n今早已报、本档不复读细节：InfraRSI [2611.11558](https://arxiv.org/abs/2611.11558) 仍在 11月10日日榜和 AlphaXiv 热门列表，位置有前移。Energy-Based Reasoners、Watching Itself Watch 不再出现在本次 AlphaXiv 热门首页，这不是撤稿证据。World In-Context Learning [2611.12885](https://arxiv.org/abs/2611.12885) 现为 Hugging Face 11月11日日榜第 2 名。更早已报条目只保留编号：Reframe [2611.12886](https://arxiv.org/abs/2611.12886)、训练—推理不一致与在线策略蒸馏 [2611.11450](https://arxiv.org/abs/2611.11450)、Horizon-Scalable Q-Learning [2611.10987](https://arxiv.org/abs/2611.10987)、Spatial Harness [2611.11344](https://arxiv.org/abs/2611.11344)、Sage-Taiyi [2611.12762](https://arxiv.org/abs/2611.12762)、Speculative Self-Distillation [2611.12016](https://arxiv.org/abs/2611.12016)、Flex-RSI [2611.08946](https://arxiv.org/abs/2611.08946)、BOXBOX [2611.09218](https://arxiv.org/abs/2611.09218)。本档跳过扩散模型和图像、视频生成类条目。",
+      "sources": [
+        "arXiv",
+        "Hugging Face 11月11日日榜",
+        "AlphaXiv 热门列表"
+      ],
+      "still_unseen": [
+        "未打开 NeurIPS 2026 议程或论文集页面"
+      ],
+      "important_points": []
     }
   ]
 }

@@ -48,12 +48,8 @@ python3 tools/build.py
 - `public_record`：公开记录，忠实于已交简报，不编造。
 - `sources`、`still_unseen`：只写简报里出现过的来源和「仍未见」事项，不要补写没有核对过的出处。
 
-## 5. 公开页面
+## 5. 公开仓库与每天同步
 
-站点文件在本仓库的 `main` 分支。GitHub Pages 的来源应设为分支 `main`、文件夹 `/`（普通静态站点，不用文档主题）。公开地址：
+公开仓库是 [https://github.com/Jalen-Zhong/theme-briefs](https://github.com/Jalen-Zhong/theme-briefs)。GitHub Pages 地址是 [https://jalen-zhong.github.io/theme-briefs/](https://jalen-zhong.github.io/theme-briefs/)，从 `main` 分支的根目录发布。
 
-https://jalen-zhong.github.io/theme-briefs/
-
-`index.html` 使用相对路径加载 `assets/style.css`、`assets/bundle.js` 和 `assets/app.js`，因此在项目站点的子路径下可以打开，而不只在域名根目录。`assets/bundle.js` 已随仓库提交，访客不必在本地运行 Python。仓库根目录有一个空的 `.nojekyll`，让 Pages 按原样提供文件（包括各日期文件夹里的 `_meta.json`），不经过 Jekyll。
-
-以后若改了条目，在仓库根目录运行 `python3 tools/build.py`，再把新的 `assets/bundle.js` 一并提交。
+从 2026-11-11 起，每天上海时间 18:00 这一档追加到本仓库并完成构建后，把同一批更新同步到公开仓库的 `main` 分支，让公开页面保持最新。不要改仓库的可见性。公开页面不要写入内部口令、微信 token 或未对用户公开的材料。

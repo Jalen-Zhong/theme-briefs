@@ -18,6 +18,21 @@
         "未见 OpenAI 新闻室就此事发布正式产品或交易通稿"
       ],
       "important_points": []
+    },
+    {
+      "slot": "18:00",
+      "important": false,
+      "headline": "仍无公开上市文件；新闻室今天刊出一篇退伍军人节稿",
+      "x_circulation": "X 上仍有人把 OpenAI 和 Anthropic 的上市时间写在一起。",
+      "public_record": "本档仍未见 OpenAI 公布公开版登记声明、交易代码或交易所上市通知。今天新见到的，是 OpenAI 新闻室 11月11日的稿件，标题为「为退伍军人和现役人员提供 ChatGPT Plus」。导语写：在过去一年里，已有 20,000 多名转业军人和退伍军人领取了公司提供的一年免费 ChatGPT Plus。这是公司新闻室的正式稿，内容是现有免费年限项目，不是证券发行文件，也没有披露新的交易条款或上市时间表。",
+      "sources": [
+        "OpenAI 新闻室"
+      ],
+      "still_unseen": [
+        "未见 OpenAI 公布公开版登记声明、交易代码或交易所上市通知",
+        "未见 Odessia / Davidson 交易条款的公司通稿"
+      ],
+      "important_points": []
     }
   ]
 }
