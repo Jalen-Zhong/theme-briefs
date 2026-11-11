@@ -1,0 +1,128 @@
+[
+  {
+    "id": "hormuz-shipping",
+    "title_zh": "霍尔木兹／海湾航运",
+    "category": "地缘政治",
+    "status": "active",
+    "summary": "英国海上贸易行动办公室警告与海上联合信息中心更新，按编号分别记录，不写成商业海峡已经关闭或已经复航。"
+  },
+  {
+    "id": "houthis-saudi-pipeline",
+    "title_zh": "胡塞与沙特／东西输油管道",
+    "category": "地缘政治",
+    "status": "active",
+    "summary": "沙特能源部与相关通稿中的管道、设施事件，以及胡塞方面的单方说法；不与霍尔木兹航运混写。"
+  },
+  {
+    "id": "taiwan-strait",
+    "title_zh": "东沙／台海周边海空情",
+    "category": "地缘政治",
+    "status": "active",
+    "summary": "台湾国防部正式窗（每天 06:00 到次日 06:00，各窗单独计算，数字不加总）以及东沙、金门相关通稿。"
+  },
+  {
+    "id": "israel-government",
+    "title_zh": "以色列国会与组阁",
+    "category": "地缘政治",
+    "status": "active",
+    "summary": "第26届国会宣誓、议长提名与表决安排、组阁授权。获得组阁权不是新政府已经组成。"
+  },
+  {
+    "id": "us-congress-midterms",
+    "title_zh": "美国期中选举与国会",
+    "category": "地缘政治",
+    "status": "active",
+    "summary": "美国期中选举后的国会控制权预估、众议院领导层，以及针对战争部长的弹劾程序。"
+  },
+  {
+    "id": "g7-taiwan-statement",
+    "title_zh": "七国集团外长关于台湾海峡的表述",
+    "category": "地缘政治",
+    "status": "active",
+    "summary": "七国集团外长会议中涉及东海、南海和台湾海峡的公开表述。"
+  },
+  {
+    "id": "crude-oil",
+    "title_zh": "原油",
+    "category": "石油与黄金",
+    "status": "active",
+    "summary": "西德克萨斯中质原油与布伦特原油的官方结算和电子报价；结算与电子盘分开记录。"
+  },
+  {
+    "id": "gold",
+    "title_zh": "黄金",
+    "category": "石油与黄金",
+    "status": "active",
+    "summary": "黄金现货与期货是两套数字，不加成一个数。"
+  },
+  {
+    "id": "us-cpi",
+    "title_zh": "美国消费者物价",
+    "category": "宏观经济",
+    "status": "active",
+    "summary": "美国劳工统计局发布的城市消费者物价指数及相关实际收入数据。"
+  },
+  {
+    "id": "us-fed",
+    "title_zh": "美联储利率与官员讲话",
+    "category": "宏观经济",
+    "status": "active",
+    "summary": "联邦基金利率目标区间、议息日历，以及个别官员的公开讲话和准备稿。讲话不是会后声明。"
+  },
+  {
+    "id": "us-treasury-auction",
+    "title_zh": "美国财政部国债拍卖",
+    "category": "宏观经济",
+    "status": "active",
+    "summary": "财政部国债拍卖的官方结果。这不是二级市场上每天交易的收益率。"
+  },
+  {
+    "id": "china-macro",
+    "title_zh": "中国央行与进出口",
+    "category": "宏观经济",
+    "status": "active",
+    "summary": "中国人民银行公开市场操作，以及海关总署进出口数据。"
+  },
+  {
+    "id": "nvidia-investigation",
+    "title_zh": "英伟达独立调查",
+    "category": "科技公司",
+    "status": "active",
+    "summary": "英伟达董事会独立调查、国会相关函询与传票表态，以及股东集体诉讼。调查、起诉和传票表态都不是结论。"
+  },
+  {
+    "id": "anthropic-ipo",
+    "title_zh": "Anthropic 上市登记",
+    "category": "科技公司",
+    "status": "active",
+    "summary": "Anthropic 拟议首次公开发行的路演、登记声明修订与定价区间。登记声明尚未生效。生效前不得出售这些证券，也还没有上市。"
+  },
+  {
+    "id": "openai",
+    "title_zh": "OpenAI",
+    "category": "科技公司",
+    "status": "active",
+    "summary": "与 OpenAI 上市传闻有关的公开记录，以及已核实的人事消息。未见公开版上市登记时，不写成已经上市。"
+  },
+  {
+    "id": "google-gemini",
+    "title_zh": "谷歌 Gemini 与出口管制讨论",
+    "category": "科技公司",
+    "status": "active",
+    "summary": "谷歌 Gemini 产品开放，以及媒体讨论中的出口管制草案。草案还不是已经生效的禁令。"
+  },
+  {
+    "id": "rl-ml-papers",
+    "title_zh": "强化学习与机器学习论文",
+    "category": "科研论文",
+    "status": "active",
+    "summary": "侧重递归自改进、强化学习、视觉语言和奖励模型的预印本与相关讨论；跳过扩散与图像、视频生成。多数预印本尚未同行评审。"
+  },
+  {
+    "id": "market-tape-legacy",
+    "title_zh": "亚太与美股美债点位（已停更）",
+    "category": "历史行情",
+    "status": "retired",
+    "summary": "仅保留 2026年11月10日简报里已经写过的亚太收盘、美股、美债或期货点位，作为历史记录。11月10日晚间之后，按用户要求不再报告美股、美债二级走势，本对象不再新增条目。"
+  }
+]

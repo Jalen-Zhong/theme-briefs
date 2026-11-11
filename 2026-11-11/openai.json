@@ -1,0 +1,23 @@
+{
+  "id": "openai",
+  "date": "2026-11-11",
+  "timezone": "Asia/Shanghai",
+  "entries": [
+    {
+      "slot": "08:45",
+      "important": false,
+      "headline": "仍无公开上市文件；发言人确认请来一名创始人",
+      "x_circulation": "X 上仍有人把 OpenAI 和 Anthropic 的上市时间写在一起。Anthropic 与 OpenAI 上市相关查询约 1.2 万条，这是两家合计的讨论量，不是上市已经完成。",
+      "public_record": "本档仍未见 OpenAI 公布公开版登记声明、交易代码或交易所上市通知。本档新见到的，是 TechCrunch 11月10日报道：旅行初创公司 Odessia 创始人 Francis Davidson 发帖称公司已被 OpenAI 收购、自己已加入 OpenAI。TechCrunch 写明，OpenAI 发言人向该媒体确认了这一聘用。交易条款未披露。稿件形容更像人才加盟。本档未见 OpenAI 新闻室就此事发布正式产品或交易通稿。",
+      "sources": [
+        "TechCrunch"
+      ],
+      "still_unseen": [
+        "未见 OpenAI 公布公开版登记声明、交易代码或交易所上市通知",
+        "交易条款未披露",
+        "未见 OpenAI 新闻室就此事发布正式产品或交易通稿"
+      ],
+      "important_points": []
+    }
+  ]
+}

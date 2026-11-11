@@ -1,0 +1,31 @@
+{
+  "id": "gold",
+  "date": "2026-11-10",
+  "timezone": "Asia/Shanghai",
+  "entries": [
+    {
+      "slot": "08:45",
+      "important": false,
+      "headline": "黄金现货买入价约 4,122.20 美元，期货周一结算 4,114.50 美元",
+      "x_circulation": "",
+      "public_record": "黄金现货和期货是两套数字，不要混成同一个数。Kitco 现货买入价约 4,122.20 美元/盎司（页面约下跌 0.42%；相对昨晚买入价约 4,094 美元，高约 28 美元）。纽约商品交易所黄金期货周一结算为 4,114.50 美元；晚间电子报价约 4,136 美元。",
+      "sources": [
+        "Kitco"
+      ],
+      "still_unseen": [],
+      "important_points": []
+    },
+    {
+      "slot": "17:45",
+      "important": false,
+      "headline": "黄金现货买入价约 4,082.60 美元，相对今早约低 40 美元",
+      "x_circulation": "",
+      "public_record": "现货和期货仍是不同口径，不要混成同一个数。Kitco 现货买入价约 4,082.60 美元/盎司（页面约下跌 1.37%；相对今早买入价约 4,122.2 美元，低约 40 美元）。纽约商品交易所黄金期货周一结算仍是 4,114.50 美元；周二电子报价约 4,092.10 美元。",
+      "sources": [
+        "Kitco"
+      ],
+      "still_unseen": [],
+      "important_points": []
+    }
+  ]
+}

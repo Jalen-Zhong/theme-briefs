@@ -1,0 +1,25 @@
+{
+  "id": "rl-ml-papers",
+  "date": "2026-11-11",
+  "timezone": "Asia/Shanghai",
+  "entries": [
+    {
+      "slot": "08:45",
+      "important": false,
+      "headline": "新抬 InfraRSI、Energy-Based Reasoners 等预印本；11月11日日榜尚未独立打开",
+      "x_circulation": "论文编号的独立讨论，仍远低于公司和地缘主题。InfraRSI 在 X 上有少量讨论，主要是账号 @dair_ai 在 11月10日 22:28（上海时间）转发介绍。Energy-Based Reasoners 已有可核对的 X 讨论，主要发生在 11月9日，隔夜仍有少量跟帖。Watching Itself Watch 按论文编号检索，本档未见对应的 X 讨论。局部学习规则一文，作者在 X 上说该项工作已被 NeurIPS 2026 的 Concept & Feasibility Track（概念与可行性轨道）接收；本档没有打开该会议的议程或论文集页面，所以只记录作者自己的说法。World In-Context Learning 未见对应的 X 讨论。",
+      "public_record": "本档新抬（不是昨晚已写过的新条目），均为预印本，尚未经过同行评审：\n\nInfraRSI（用递归自改进去搜索训练设置和代码补丁，想在不悄悄破坏训练约定的前提下，加快分布式语言模型训练）[2611.11558](https://arxiv.org/abs/2611.11558)，出现在 Hugging Face 11月10日日榜和 AlphaXiv 热门列表。Energy-Based Reasoners（把循环式推理器训练成能量模型，让每一步沿着能量的方向走，并用同一个分数决定何时停止）[2611.08977](https://arxiv.org/abs/2611.08977)，出现在 AlphaXiv 热门列表，不在 Hugging Face 11月10日日榜。Watching Itself Watch（这是视频推理的事后训练方法，不是视频生成：模型比较「看得到画面」和「看不到画面」时的下一步预测，然后把训练集中在它刚才忽略画面的地方）[2611.11949](https://arxiv.org/abs/2611.11949)，出现在 AlphaXiv 热门列表。A method to automatically discover symbolic local learning rules（自动寻找一层一层的局部学习规则，看它们能否代替反向传播）[2611.12248](https://arxiv.org/abs/2611.12248)，出现在 AlphaXiv 热门列表；作者在 X 上称已被 NeurIPS 2026 相关轨道接收，本档没有打开会议议程或论文集页面，稿件本身仍挂在 arXiv 上。补充可见、不升为主条：World In-Context Learning [2611.12885](https://arxiv.org/abs/2611.12885)（让机器人智能体先看示范，再在世界模型里预演，并留下在真实场景里仍然有用的上下文笔记），在 AlphaXiv 热门列表。\n\n昨晚已报、本档不复读细节：Reframe [2611.12886](https://arxiv.org/abs/2611.12886)、训练—推理不一致与在线策略蒸馏 [2611.11450](https://arxiv.org/abs/2611.11450)、Horizon-Scalable Q-Learning [2611.10987](https://arxiv.org/abs/2611.10987)、Spatial Harness [2611.11344](https://arxiv.org/abs/2611.11344)、Sage-Taiyi [2611.12762](https://arxiv.org/abs/2611.12762)、Speculative Self-Distillation [2611.12016](https://arxiv.org/abs/2611.12016)。更早仍热、只保留编号：Flex-RSI [2611.08946](https://arxiv.org/abs/2611.08946)、BOXBOX [2611.09218](https://arxiv.org/abs/2611.09218)、Goodhart in the Planner [2611.09670](https://arxiv.org/abs/2611.09670)、Alignment by Confident Debate [2611.09568](https://arxiv.org/abs/2611.09568)、Monitor-Based Interventions [2611.09828](https://arxiv.org/abs/2611.09828)、RuACT [2611.09597](https://arxiv.org/abs/2611.09597)、Learning When to Think [2611.09154](https://arxiv.org/abs/2611.09154)、SwarmEvolve [2611.08483](https://arxiv.org/abs/2611.08483)、Steerable Multi-Objective GRPO [2611.09634](https://arxiv.org/abs/2611.09634)。\n\nHugging Face 11月11日日榜尚未独立打开（接口返回日期须不晚于 11月10日；11月11日网页仍是 11月10日的 38 篇列表）。arXiv 周三新目次在本档抓取时也尚未打开。本档跳过扩散模型和图像、视频生成类条目。",
+      "sources": [
+        "arXiv",
+        "Hugging Face 11月10日日榜",
+        "AlphaXiv 热门列表"
+      ],
+      "still_unseen": [
+        "Hugging Face 11月11日日榜尚未独立打开",
+        "arXiv 周三新目次在本档抓取时尚未打开",
+        "未打开 NeurIPS 2026 议程或论文集页面"
+      ],
+      "important_points": []
+    }
+  ]
+}
