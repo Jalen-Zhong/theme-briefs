@@ -1,0 +1,203 @@
+{
+  "generated_at": "2026-11-11 10:43:45",
+  "timezone": "Asia/Shanghai",
+  "dates": [
+    "2026-11-10",
+    "2026-11-11"
+  ],
+  "slots": [
+    {
+      "date": "2026-11-10",
+      "slot": "08:45",
+      "title": "早间主题简报"
+    },
+    {
+      "date": "2026-11-10",
+      "slot": "17:45",
+      "title": "晚间主题简报"
+    },
+    {
+      "date": "2026-11-11",
+      "slot": "08:45",
+      "title": "早间主题简报"
+    }
+  ],
+  "objects": [
+    {
+      "id": "hormuz-shipping",
+      "title_zh": "霍尔木兹／海湾航运",
+      "category": "地缘政治",
+      "status": "active",
+      "dates": [
+        "2026-11-10",
+        "2026-11-11"
+      ]
+    },
+    {
+      "id": "houthis-saudi-pipeline",
+      "title_zh": "胡塞与沙特／东西输油管道",
+      "category": "地缘政治",
+      "status": "active",
+      "dates": [
+        "2026-11-10",
+        "2026-11-11"
+      ]
+    },
+    {
+      "id": "taiwan-strait",
+      "title_zh": "东沙／台海周边海空情",
+      "category": "地缘政治",
+      "status": "active",
+      "dates": [
+        "2026-11-10",
+        "2026-11-11"
+      ]
+    },
+    {
+      "id": "israel-government",
+      "title_zh": "以色列国会与组阁",
+      "category": "地缘政治",
+      "status": "active",
+      "dates": [
+        "2026-11-10",
+        "2026-11-11"
+      ]
+    },
+    {
+      "id": "us-congress-midterms",
+      "title_zh": "美国期中选举与国会",
+      "category": "地缘政治",
+      "status": "active",
+      "dates": [
+        "2026-11-10",
+        "2026-11-11"
+      ]
+    },
+    {
+      "id": "g7-taiwan-statement",
+      "title_zh": "七国集团外长关于台湾海峡的表述",
+      "category": "地缘政治",
+      "status": "active",
+      "dates": [
+        "2026-11-11"
+      ]
+    },
+    {
+      "id": "crude-oil",
+      "title_zh": "原油",
+      "category": "石油与黄金",
+      "status": "active",
+      "dates": [
+        "2026-11-10",
+        "2026-11-11"
+      ]
+    },
+    {
+      "id": "gold",
+      "title_zh": "黄金",
+      "category": "石油与黄金",
+      "status": "active",
+      "dates": [
+        "2026-11-10",
+        "2026-11-11"
+      ]
+    },
+    {
+      "id": "us-cpi",
+      "title_zh": "美国消费者物价",
+      "category": "宏观经济",
+      "status": "active",
+      "dates": [
+        "2026-11-11"
+      ]
+    },
+    {
+      "id": "us-fed",
+      "title_zh": "美联储利率与官员讲话",
+      "category": "宏观经济",
+      "status": "active",
+      "dates": [
+        "2026-11-10",
+        "2026-11-11"
+      ]
+    },
+    {
+      "id": "us-treasury-auction",
+      "title_zh": "美国财政部国债拍卖",
+      "category": "宏观经济",
+      "status": "active",
+      "dates": [
+        "2026-11-11"
+      ]
+    },
+    {
+      "id": "china-macro",
+      "title_zh": "中国央行与进出口",
+      "category": "宏观经济",
+      "status": "active",
+      "dates": [
+        "2026-11-11"
+      ]
+    },
+    {
+      "id": "nvidia-investigation",
+      "title_zh": "英伟达独立调查",
+      "category": "科技公司",
+      "status": "active",
+      "dates": [
+        "2026-11-10",
+        "2026-11-11"
+      ]
+    },
+    {
+      "id": "anthropic-ipo",
+      "title_zh": "Anthropic 上市登记",
+      "category": "科技公司",
+      "status": "active",
+      "dates": [
+        "2026-11-10",
+        "2026-11-11"
+      ]
+    },
+    {
+      "id": "openai",
+      "title_zh": "OpenAI",
+      "category": "科技公司",
+      "status": "active",
+      "dates": [
+        "2026-11-10",
+        "2026-11-11"
+      ]
+    },
+    {
+      "id": "google-gemini",
+      "title_zh": "谷歌 Gemini 与出口管制讨论",
+      "category": "科技公司",
+      "status": "active",
+      "dates": [
+        "2026-11-11"
+      ]
+    },
+    {
+      "id": "rl-ml-papers",
+      "title_zh": "强化学习与机器学习论文",
+      "category": "科研论文",
+      "status": "active",
+      "dates": [
+        "2026-11-10",
+        "2026-11-11"
+      ]
+    },
+    {
+      "id": "market-tape-legacy",
+      "title_zh": "亚太与美股美债点位（已停更）",
+      "category": "历史行情",
+      "status": "retired",
+      "dates": [
+        "2026-11-10"
+      ]
+    }
+  ],
+  "file_count": 30,
+  "bundle": "assets/bundle.js"
+}

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>主题简报</title>
+    <link rel="stylesheet" href="assets/style.css">
+  </head>
+  <body>
+    <a class="skip-link" href="#reader">跳到正文</a>
+    <div class="app">
+      <aside class="sidebar" id="sidebar">
+        <p class="brand">主题简报</p>
+        <p class="brand-note">按对象累积，按时间阅读。点时间线节点查看详情。时区：上海时间。</p>
+        <button type="button" class="menu-toggle" id="menu-toggle">显示或收起目录</button>
+        <div class="sidebar-body">
+          <label class="field-label" for="slot-filter">档期</label>
+          <select id="slot-filter" class="slot-filter"></select>
+          <label class="field-label" for="search">检索</label>
+          <input id="search" class="search" type="search" placeholder="按对象或正文检索" autocomplete="off">
+          <a class="nav-home" id="nav-home" href="#home">最新档首页</a>
+          <nav id="object-nav" aria-label="对象目录"></nav>
+        </div>
+      </aside>
+      <main class="main">
+        <div class="reader" id="reader"></div>
+        <footer class="footer">
+          时区：Asia/Shanghai（上海时间）。无仓位建议。这是可累积对象简报的修订版：每个对象先看时间线图，点击节点才进入该时点详情。内容来自已经交给读者的主题简报，后续仍会按对象追加。以后例行简报为每天上海时间 18:00 一档。
+        </footer>
+      </main>
+    </div>
+    <script src="assets/bundle.js"></script>
+    <script src="assets/app.js"></script>
+  </body>
+</html>

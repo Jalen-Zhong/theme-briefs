@@ -1,0 +1,31 @@
+{
+  "id": "openai",
+  "date": "2026-11-10",
+  "timezone": "Asia/Shanghai",
+  "entries": [
+    {
+      "slot": "08:45",
+      "important": false,
+      "headline": "OpenAI 与 Anthropic 的上市口号仍被写在一起，未见 OpenAI 公开上市文件",
+      "x_circulation": "Anthropic 与 OpenAI 上市估值口号在周一只见回抽。有人把两家公司的上市时间或估值写在同一组说法里。",
+      "public_record": "早间简报把 Anthropic 与 OpenAI 的融资与上市预期口号一并记录，未见单独指向 OpenAI 的公开版登记声明、交易代码或交易所上市通知。估值口号或日期口号，不能写成已经上市或融资已经失败。",
+      "sources": [],
+      "still_unseen": [
+        "未见 OpenAI 公布公开版登记声明、交易代码或交易所上市通知"
+      ],
+      "important_points": []
+    },
+    {
+      "slot": "17:45",
+      "important": false,
+      "headline": "上市规模口号再抬，仍未见 OpenAI 公开上市文件",
+      "x_circulation": "Anthropic 与 OpenAI 上市规模口号在周二再抬。两家公司仍常被写在同一组说法里。",
+      "public_record": "晚间简报仍把 Anthropic 与 OpenAI 的上市预期口号一并记录，并出现更具体的筹资和日期数字。这些更具体的数字在次日核对中，主要对应 Anthropic 一侧的流传材料，不能据此写成 OpenAI 已经提交公开上市文件。本档仍未见 OpenAI 公布公开版登记声明、交易代码或交易所上市通知。",
+      "sources": [],
+      "still_unseen": [
+        "未见 OpenAI 公布公开版登记声明、交易代码或交易所上市通知"
+      ],
+      "important_points": []
+    }
+  ]
+}

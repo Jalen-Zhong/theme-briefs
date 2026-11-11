@@ -1,0 +1,80 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://theme-briefs.local/schema/entry.schema.json",
+  "title": "Theme brief date-object file",
+  "description": "One object on one calendar date (Asia/Shanghai). A file may contain one or more slots (08:45, 17:45).",
+  "type": "object",
+  "required": ["id", "date", "timezone", "entries"],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Object id, must match the filename (without .json) and an id in objects.json."
+    },
+    "date": {
+      "type": "string",
+      "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$",
+      "description": "Calendar date in Asia/Shanghai, must match the parent folder name."
+    },
+    "timezone": {
+      "type": "string",
+      "const": "Asia/Shanghai"
+    },
+    "entries": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": [
+          "slot",
+          "important",
+          "headline",
+          "x_circulation",
+          "public_record",
+          "sources",
+          "still_unseen",
+          "important_points"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "slot": {
+            "type": "string",
+            "pattern": "^[0-9]{2}:[0-9]{2}$",
+            "description": "Brief slot time in Asia/Shanghai, usually 08:45 or 17:45."
+          },
+          "important": {
+            "type": "boolean",
+            "description": "True only for material developments that day (new official warning, official data release, completed swearing-in, registration amendment filed, independent counsel hired). Routine 'no new window / prices still moving' should be false."
+          },
+          "headline": {
+            "type": "string",
+            "description": "Short Chinese headline. Shown in red when important is true."
+          },
+          "x_circulation": {
+            "type": "string",
+            "description": "What circulated on X, in plain Chinese. Empty string if the brief did not mention X for this object."
+          },
+          "public_record": {
+            "type": "string",
+            "description": "What the public record says, faithful to the delivered digest. Plain Chinese. May use Markdown links for arXiv."
+          },
+          "sources": {
+            "type": "array",
+            "items": { "type": "string" },
+            "description": "Named sources from the digest only. Do not invent."
+          },
+          "still_unseen": {
+            "type": "array",
+            "items": { "type": "string" },
+            "description": "Items the brief explicitly said were not seen in that slot."
+          },
+          "important_points": {
+            "type": "array",
+            "items": { "type": "string" },
+            "description": "A few short factual sentences to mark in red. Empty if nothing should be highlighted. Do not paste the whole body."
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "us-congress-midterms",
+  "date": "2026-11-10",
+  "timezone": "Asia/Shanghai",
+  "entries": [
+    {
+      "slot": "08:45",
+      "important": false,
+      "headline": "民主党夺回众议院的叙事维持，未见控制权翻转的通稿",
+      "x_circulation": "",
+      "public_record": "美国中期选举后，民主党夺回众议院的叙事维持。本档未见控制权出现翻转的通稿。本条在早间简报中只作为地缘日历旁注。",
+      "sources": [],
+      "still_unseen": [
+        "未见控制权翻转的通稿"
+      ],
+      "important_points": []
+    },
+    {
+      "slot": "17:45",
+      "important": false,
+      "headline": "民主党夺回众议院的叙事维持，未见控制权翻转的通稿",
+      "x_circulation": "",
+      "public_record": "美国中期选举后，民主党夺回众议院的叙事维持。本档未见控制权出现翻转的通稿。本条在晚间简报中仍只作为地缘日历旁注。",
+      "sources": [],
+      "still_unseen": [
+        "未见控制权翻转的通稿"
+      ],
+      "important_points": []
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "rl-ml-papers",
+  "date": "2026-11-10",
+  "timezone": "Asia/Shanghai",
+  "entries": [
+    {
+      "slot": "08:45",
+      "important": false,
+      "headline": "本档无显著新抬，复读仍热的递归自改进与强化学习预印本",
+      "x_circulation": "",
+      "public_record": "本栏侧重递归自改进、强化学习、视觉语言和奖励模型，跳过扩散模型与图像、视频生成。所列多数是预印本，也就是尚未经过同行评审、先公开出来的文稿。\n\n本档无显著新抬：Hugging Face 11月10日日榜尚未独立打开；arXiv 未见高于 2611.09894 的本主题新号。复读昨晚仍热的主条：Flex-RSI（前沿智能体递归自改进基准）[2611.08946](https://arxiv.org/abs/2611.08946)；BOXBOX（递归 harness 自改进做长程优化）[2611.09218](https://arxiv.org/abs/2611.09218)；Goodhart in the Planner（偏好学到的奖励在采样控制里被钻空子）[2611.09670](https://arxiv.org/abs/2611.09670)；Alignment by Confident Debate（多智能体辩论做偏好学习）[2611.09568](https://arxiv.org/abs/2611.09568)；Monitor-Based Interventions（监控干预缓解奖励黑客）[2611.09828](https://arxiv.org/abs/2611.09828)；RuACT（闲置评分表改作自适应评论者／教师）[2611.09597](https://arxiv.org/abs/2611.09597)；Learning When to Think（视觉语言模型何时长推理）[2611.09154](https://arxiv.org/abs/2611.09154)；SwarmEvolve（潜空间智能体群演化）[2611.08483](https://arxiv.org/abs/2611.08483)；Steerable Multi-Objective GRPO（可转向多目标组相对偏好优化）[2611.09634](https://arxiv.org/abs/2611.09634)。以上均是预印本，尚未同行评审。\n\n脚注可见、不升为主条：On Agentic Manipulation Policies [2611.09892](https://arxiv.org/abs/2611.09892)、Computer-Use Agents Are Embodied Generalists [2611.09847](https://arxiv.org/abs/2611.09847)。本档跳过扩散、高斯溅射重建、视频生成类日榜条目。",
+      "sources": [
+        "arXiv",
+        "Hugging Face 日榜（本档尚未独立打开）"
+      ],
+      "still_unseen": [
+        "Hugging Face 11月10日日榜尚未独立打开",
+        "arXiv 未见高于 2611.09894 的本主题新号"
+      ],
+      "important_points": []
+    },
+    {
+      "slot": "17:45",
+      "important": false,
+      "headline": "Hugging Face 11月10日日榜已打开，新抬 Reframe 等若干预印本",
+      "x_circulation": "",
+      "public_record": "本档有新抬，Hugging Face 11月10日日榜已独立打开。新抬条目均为预印本，尚未同行评审：Reframe（多智能体在线策略蒸馏，让视觉智能体对齐工具返回的观察）[2611.12886](https://arxiv.org/abs/2611.12886)；How Much Training-Inference Mismatch Can On-Policy Distillation Tolerate?（在线策略蒸馏能公差多少训练—推理不一致）[2611.11450](https://arxiv.org/abs/2611.11450)；Horizon-Scalable Q-Learning（任务变长时更稳地学状态—动作价值）[2611.10987](https://arxiv.org/abs/2611.10987)；Spatial Harness（教视觉语言模型把空间关系落到可执行的物理世界状态上）[2611.11344](https://arxiv.org/abs/2611.11344)；Sage-Taiyi（给科学发现智能体加一层元认知，先评估自己知道什么再决定下一步）[2611.12762](https://arxiv.org/abs/2611.12762)；Speculative Self-Distillation（用推测式自我蒸馏更省地记住新知识）[2611.12016](https://arxiv.org/abs/2611.12016)。\n\n今早已报、仍热、本档不复读细节：Flex-RSI [2611.08946](https://arxiv.org/abs/2611.08946)、BOXBOX [2611.09218](https://arxiv.org/abs/2611.09218)、Goodhart in the Planner [2611.09670](https://arxiv.org/abs/2611.09670)、Alignment by Confident Debate [2611.09568](https://arxiv.org/abs/2611.09568)、Monitor-Based Interventions [2611.09828](https://arxiv.org/abs/2611.09828)、RuACT [2611.09597](https://arxiv.org/abs/2611.09597)、Learning When to Think [2611.09154](https://arxiv.org/abs/2611.09154)、SwarmEvolve [2611.08483](https://arxiv.org/abs/2611.08483)、Steerable Multi-Objective GRPO [2611.09634](https://arxiv.org/abs/2611.09634)。脚注可见、不升为主条：SciMARS [2611.12552](https://arxiv.org/abs/2611.12552)、Agentic-OPD [2611.12799](https://arxiv.org/abs/2611.12799)、PORT [2611.12763](https://arxiv.org/abs/2611.12763)。本档跳过扩散、视频生成类日榜条目。",
+      "sources": [
+        "Hugging Face 11月10日日榜",
+        "arXiv"
+      ],
+      "still_unseen": [],
+      "important_points": []
+    }
+  ]
+}
