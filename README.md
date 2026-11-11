@@ -50,7 +50,7 @@ python3 tools/build.py
 
 ## 5. 公开页面
 
-这一版已按要求公开到本仓库的 `main` 分支。GitHub Pages 从 `main` 的站点根目录提供页面：
+站点文件在本仓库的 `main` 分支。GitHub Pages 的来源应设为分支 `main`、文件夹 `/`（普通静态站点，不用文档主题）。公开地址：
 
 https://jalen-zhong.github.io/theme-briefs/
 
