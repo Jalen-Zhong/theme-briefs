@@ -1,0 +1,22 @@
+{
+  "id": "rl-ml-papers",
+  "date": "2026-11-12",
+  "timezone": "Asia/Shanghai",
+  "entries": [
+    {
+      "slot": "18:00",
+      "important": false,
+      "headline": "11月12日日榜已打开；新抬用强化学习做教科书自学、以及游戏任务强化学习环境等预印本",
+      "x_circulation": "",
+      "public_record": "Hugging Face 11月12日日榜已经独立打开。本档新抬（不是昨天已经写过的新条目），均为预印本，尚未经过同行评审：\n\nIncentivizing Self-Learning in Large Language Models via Reinforcement Learning（用强化学习，训练大语言模型自己去翻教科书、学习并应用里面的知识，用来完成证明题）[2610.39671](https://arxiv.org/abs/2610.39671)，出现在 Hugging Face 11月12日日榜较前位置。GTAGym（一套用大型游戏任务来评测和训练强化学习智能体的环境，不是图像或视频生成论文）[2611.13028](https://arxiv.org/abs/2611.13028)，也出现在同一日榜。补充可见、不升为主条：SteerDistill（用教师模型引导的方式，压缩语言模型智能体的体积）[2611.13410](https://arxiv.org/abs/2611.13410)，同样出现在 11月12日日榜。AlphaXiv 热门列表本档未能完整打开，因此不把未核对的热门名次写进正文。",
+      "sources": [
+        "arXiv",
+        "Hugging Face 11月12日日榜"
+      ],
+      "still_unseen": [
+        "AlphaXiv 热门列表本档未能完整打开"
+      ],
+      "important_points": []
+    }
+  ]
+}
