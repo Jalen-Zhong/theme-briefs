@@ -1,0 +1,21 @@
+{
+  "id": "rl-ml-papers",
+  "date": "2026-11-13",
+  "timezone": "Asia/Shanghai",
+  "entries": [
+    {
+      "slot": "18:00",
+      "important": false,
+      "headline": "11月13日日榜已打开；新抬长期智能体中的决策模型，以及具身自学里「学任务还是学检验器」等预印本",
+      "x_circulation": "",
+      "public_record": "Hugging Face 11月13日日榜已经独立打开。本档新抬（不是昨天已经写过的新条目）均为预印本，尚未经过同行评审：\n\nActor, Judge, or Teacher? Understanding Decision Models in Long-Horizon Agents（讨论在需要连续多步做决定的智能体里，决策模型可以扮演行动者、评判者或老师这几种角色）[2611.17167](https://arxiv.org/abs/2611.17167)，出现在 Hugging Face 11月13日日榜较前位置，也出现在本档已打开的 AlphaXiv 热门列表里。Learning the Task or Learning the Verifier? Rethinking Criteria Exposure in Embodied Self-Improvement（讨论在实际环境里行动的自学系统，到底是在学习任务本身，还是在学习用来打分的检验器）[2611.08318](https://arxiv.org/abs/2611.08318)，同样出现在 11月13日日榜。补充可见、不升为主条：SO-Arena（一套用来评测快速决策模型能力范围和可靠性的基准，不是图像或视频生成论文）[2611.15777](https://arxiv.org/abs/2611.15777)，出现在同一日榜较前位置。按既有范围，日榜里以视频生成为主题的条目不写入本栏。",
+      "sources": [
+        "arXiv",
+        "Hugging Face 11月13日日榜",
+        "AlphaXiv 热门列表"
+      ],
+      "still_unseen": [],
+      "important_points": []
+    }
+  ]
+}
