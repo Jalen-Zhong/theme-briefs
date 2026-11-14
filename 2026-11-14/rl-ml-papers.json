@@ -1,0 +1,22 @@
+{
+  "id": "rl-ml-papers",
+  "date": "2026-11-14",
+  "timezone": "Asia/Shanghai",
+  "entries": [
+    {
+      "slot": "18:00",
+      "important": false,
+      "headline": "日榜和热门列表新见到经验交接强化学习、以及决定何时展开推理的预印本",
+      "x_circulation": "论文作者之一 Doyoung Kim 的账号 doyoungkim_ml 在 11月13日 19:04（世界协调时间）回复一篇论文合集帖，提到自家这篇经验交接强化学习论文。这是作者自己的转发，讨论量不大。",
+      "public_record": "以下条目都是预印本，也就是还没有完成同行评审的公开稿，不是已经定稿的期刊论文。Experience-Handoff Reinforcement Learning for Recursive Self-Improvement（讨论一种经验交接强化学习，让模型在行动、反思和整理备忘手册这几件事上一起学习，并用后面一次尝试的任务奖励来评价这份备忘是否有用；论文把这种方法称为 ACE-RL，主题属于递归自改进和强化学习）[2611.16409](https://arxiv.org/abs/2611.16409)，出现在 Hugging Face 可以打开的日榜页面，作者 11月13日也在 X 上提到这篇稿。The Value of Thinking: Learning When to Reason in Hybrid Decision Models（讨论一种混合决策模型：先估计「再想一遍」能带来多少好处，只有好处高于设定费用时才展开完整推理；文中提出一种叫 CDPO 的强化学习训练方法）[2611.16961](https://arxiv.org/abs/2611.16961)，同样出现在可以打开的日榜页面。补充可见、不升为主条：Unbundling Multimodal Vision Encoding（讨论多模态模型应如何编码图像，属于视觉与语言方向，不是图像或视频生成论文）[2611.17334](https://arxiv.org/abs/2611.17334)，出现在本档已打开的 AlphaXiv 热门列表较前位置。昨天已经写入的 Actor, Judge, or Teacher? [2611.17167](https://arxiv.org/abs/2611.17167) 仍出现在同一份热门列表里，本档不再重复展开。按既有范围，热门列表和日榜里以视频生成为主题的条目不写入本栏。",
+      "sources": [
+        "arXiv",
+        "Hugging Face 可以打开的日榜页面",
+        "AlphaXiv 热门列表",
+        "X 账号 doyoungkim_ml"
+      ],
+      "still_unseen": [],
+      "important_points": []
+    }
+  ]
+}
