@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16 15:48:54",
+  "generated_at": "2026-11-16 16:15:35",
   "timezone": "Asia/Shanghai",
   "dates": [
     "2026-11-10",
@@ -124,7 +124,8 @@
       "category": "地缘政治",
       "status": "active",
       "dates": [
-        "2026-11-11"
+        "2026-11-11",
+        "2026-11-12"
       ]
     },
     {
@@ -272,6 +273,6 @@
       ]
     }
   ],
-  "file_count": 61,
+  "file_count": 62,
   "bundle": "assets/bundle.js"
 }
