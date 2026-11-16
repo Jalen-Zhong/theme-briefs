@@ -1,0 +1,20 @@
+{
+  "id": "rl-ml-papers",
+  "date": "2026-11-16",
+  "timezone": "Asia/Shanghai",
+  "entries": [
+    {
+      "slot": "18:00",
+      "important": false,
+      "headline": "日榜新见到规范智能体自行改动如何被采纳、以及视觉语言模型解码加速的预印本",
+      "x_circulation": "",
+      "public_record": "以下条目都是预印本，也就是还没有完成同行评审的公开稿，不是已经定稿的期刊论文。Evidence-Governed Adoption of Self-Generated Updates in Autonomous AI Agents（讨论一种叫证据约束演化的方法：智能体自己提出对提示词、记忆或流程的改动后，先冻结这份改动，再在新的核对样本上看它有没有真正变好，并且原先要保住的能力没有变差，通过这些核对后才允许有限度试用；主题属于递归自改进）[2611.16378](https://arxiv.org/abs/2611.16378)，出现在 Hugging Face 11月16日可以打开的日榜页面。作者写明，文中的保证是有前提的，这篇稿没有声称已经在真实部署的智能体上得到验证。MMFlash: Faster Speculative Decoding for Vision-Language Models（讨论如何让视觉语言模型更快地往外写字：先由一个草稿模块一次提出一整段候选文字，再由原模型核对；主题是视觉语言模型的解码加速，不是图像或视频生成）[2611.18482](https://arxiv.org/abs/2611.18482)，同样出现在可以打开的日榜页面。补充可见、不升为主条：V-JEPA-LM: Video-Language Models That Read Dynamics Beyond Static, Text-Aligned Representations（讨论让视频语言模型更好地理解运动、方向和状态变化，属于视觉与语言方向，不是视频生成论文）[2611.17831](https://arxiv.org/abs/2611.17831)，也出现在同一日榜。按既有范围，日榜里以视频扩散或场景生成为主题的条目不写入本栏。",
+      "sources": [
+        "arXiv",
+        "Hugging Face 可以打开的 11月16日日榜页面"
+      ],
+      "still_unseen": [],
+      "important_points": []
+    }
+  ]
+}
