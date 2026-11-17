@@ -1,0 +1,21 @@
+{
+  "id": "rl-ml-papers",
+  "date": "2026-11-17",
+  "timezone": "Asia/Shanghai",
+  "entries": [
+    {
+      "slot": "18:00",
+      "important": false,
+      "headline": "日榜新见到视觉语言动作模型扩规模、以及用模拟器反馈改写程序策略的预印本",
+      "x_circulation": "本档在全世界趋势榜上，未见这些论文标题或编号。检索见到一些账号转述开源模型 K2-Horizon，以及另一篇关于在仿真里用强化学习训练真机策略的预印本，可见互动量不高，不写成已经形成高热讨论。ScaleVLA、Latent Feedback 和 Craftax 这篇，本档没有见到可核验的高热讨论。",
+      "public_record": "以下条目都是预印本，也就是还没有完成同行评审的公开稿，不是已经定稿的期刊论文。ScaleVLA: Scaling Vision-Language-Action Models to 552 Billion Parameters（讨论把一个规模很大的视觉语言模型骨干，接到一个可训练的动作模块上，比较不同规模的骨干对机器人学习有什么影响；主题是视觉—语言—动作模型，文中的动作模块用来输出机器人动作，不是图像或视频生成）[2611.21607](https://arxiv.org/abs/2611.21607)，出现在 Hugging Face 11月17日可以打开的日榜页面，也出现在本档已打开的 AlphaXiv 热门列表第一页。Continuation-Guided LLM Evolution of Program Policies and Goal Compilers in Craftax（讨论在 Craftax 这款游戏环境里，用大语言模型根据模拟器给出的反馈，反复改写程序形式的策略，并训练一个可以把新目标写成新规则程序的模块；主题属于强化学习和递归式改进）[2611.19537](https://arxiv.org/abs/2611.19537)，出现在同一日榜。Latent Feedback Is a Compute and Data Amplifier（讨论一种把当前词最上层的状态再送回下一个词输入的做法，并在同样的计算量和数据量下，与普通的变换器模型作比较；主题是基础算法）[2611.20404](https://arxiv.org/abs/2611.20404)，同样出现在日榜和已打开的热门列表第一页。\n\n补充可见、不升为主条：Ego Guidance: Enhancing Robot Policy Learning with Action-Free Human Egocentric Videos（讨论如何用没有动作标注的第一人称人工视频，帮助机器人策略学习）[2611.13685](https://arxiv.org/abs/2611.13685)，出现在 11月17日日榜。Training Reasoning Models in Simulation to Natively Use Real Robots（讨论在仿真里用强化学习，把开源推理模型训成可以直接给真机用的策略）[2611.18562](https://arxiv.org/abs/2611.18562)，出现在已打开的 AlphaXiv 热门列表第一页，本档在 11月17日日榜未见该号。按既有范围，日榜里以长视频生成或场景文字合成为主题的条目不写入本栏。",
+      "sources": [
+        "arXiv",
+        "Hugging Face 可以打开的 11月17日日榜页面",
+        "AlphaXiv 可以打开的热门列表第一页"
+      ],
+      "still_unseen": [],
+      "important_points": []
+    }
+  ]
+}
