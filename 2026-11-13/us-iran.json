@@ -1,0 +1,26 @@
+{
+  "id": "us-iran",
+  "date": "2026-11-13",
+  "timezone": "Asia/Shanghai",
+  "entries": [
+    {
+      "slot": "18:00",
+      "important": true,
+      "headline": "鲁比奥说经济打压已经大到没有必要再采取军事行动，并称霍尔木兹每晚仍有一千三百万到一千四百万桶石油运出",
+      "x_circulation": "",
+      "public_record": "美国国务卿鲁比奥当天在联邦党人协会 2026 年全国律师大会上发表讲话。本档打开了国务院公布的官方逐字稿，日期标注为 2026年11月13日。他说，美方现在对伊朗政权造成的经济痛苦已经大到没有必要再采取军事行动，因为已经把对方削弱到这种程度。他又说，胜利是确保伊朗永远不会拥有核武器。谈到航运时，他说：你们难道不觉得，他们现在在霍尔木兹海峡向船只射击就已经够糟了，即便每晚仍有一千三百万到一千四百万桶石油运出去？这是美方国务卿的公开表述，不能据此写成已经核实的日运量，也不能写成海峡已经关闭或已经复航。\n\n伊朗官方通讯社当天还转发革命卫队海军声明说，一艘液化石油气船无视多次警告，试图走南部未经授权航线，在霍尔木兹东部触雷并发生大爆炸。声明称该船寻求美军飞机护送，但没有写船名，也没有写伤亡。这是伊朗方面的单方说法。",
+      "sources": [
+        "美国国务院公布的鲁比奥 11月13日在联邦党人协会全国律师大会上的讲话逐字稿 https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-of-state-marco-rubio-at-the-federalist-societys-2026-national-lawyers-convention",
+        "迈赫尔通讯社英文稿（革命卫队海军 11月13日关于液化气船的声明）https://en.mehrnews.com/news/249367/Liquefied-gas-carrier-blasts-after-hitting-sea-mine-in-Hormuz",
+        "塔斯尼姆通讯社英文稿 https://www.tasnimnews.ir/en/news/2026/11/13/3747278/lpg-carrier-hits-naval-mine-in-strait-of-hormuz-irgc"
+      ],
+      "still_unseen": [
+        "革命卫队关于液化气船的声明未写船名和伤亡，也未见美方、船旗国或船东的对应确认"
+      ],
+      "important_points": [
+        "鲁比奥说，经济打压已经大到没有必要再采取军事行动；他同时称霍尔木兹每晚仍有一千三百万到一千四百万桶石油运出。这是美方国务卿的说法，不能写成已经核实的日运量。",
+        "革命卫队海军称一艘液化气船在霍尔木兹东部触雷爆炸。这是伊方的单方说法，声明没有写船名。"
+      ]
+    }
+  ]
+}
