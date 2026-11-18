@@ -1,0 +1,24 @@
+{
+  "id": "us-iran",
+  "date": "2026-11-14",
+  "timezone": "Asia/Shanghai",
+  "entries": [
+    {
+      "slot": "18:00",
+      "important": true,
+      "headline": "革命卫队海军称两艘关闭雷达和定位系统的油轮触雷起火，其中一艘是超级油轮",
+      "x_circulation": "",
+      "public_record": "伊朗官方媒体当天报道，革命卫队海军称两艘关闭雷达和定位系统的油轮在试图走南部未授权航线时触雷爆炸起火，其中一艘是超级油轮。声明警告船东，未经与伊方交通管制中心协调不要过峡。稿件没有写船名，也没有写伤亡。这是伊朗方面的单方说法，不能写成商业海峡已经关闭，也不能与此前各次通报加成一个已经核实的总数。",
+      "sources": [
+        "伊朗新闻对革命卫队海军 11月14日声明的报道 https://iranpress.ir/content/321378/two-tankers-catch-fire-after-hitting-sea-mine-south-strait-hormuz-irgc-navy",
+        "光之新闻此前亦转发同类声明"
+      ],
+      "still_unseen": [
+        "声明未写船名和伤亡，也未见美方、船旗国或船东的对应确认"
+      ],
+      "important_points": [
+        "革命卫队海军称两艘油轮在南部未授权航线触雷起火，其中一艘是超级油轮。这是伊方的单方说法。"
+      ]
+    }
+  ]
+}
