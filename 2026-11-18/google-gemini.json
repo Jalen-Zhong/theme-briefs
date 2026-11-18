@@ -1,0 +1,26 @@
+{
+  "id": "google-gemini",
+  "date": "2026-11-18",
+  "timezone": "Asia/Shanghai",
+  "entries": [
+    {
+      "slot": "18:00",
+      "important": true,
+      "headline": "谷歌官方博客介绍 Gemini 4 Hydrogen；相关远程访问规则仍未正式刊登，不能写成已经对该模型生效",
+      "x_circulation": "",
+      "public_record": "谷歌官方博客刊出《Introducing Gemini 4 Hydrogen》，页面日期是 2026年11月12日，作者署名为谷歌深度学习部门和首席人工智能架构师科雷·卡武库奥卢，并写最后更新于 2026年11月16日，都没有另标时刻。上一档该对象停在 11月11日，因此把这份已经打开的官方模型稿补入本档。导语写当天推出 Gemini 4 Hydrogen，面向日常编程和智能体工作流，并写面向开发者、企业和消费者等产品界面滚动推出。文中把 Gemini 4 Carbon 和 Gemini 4 Argon 称为用于更长周期推理的前沿模型。文中有多处公司自行引用的评测分数和价格，只作为公司稿中的表述，不写成第三方已经裁定的结果。本档在这篇官方稿中，未见出口管制或远程访问限制的专门表述。\n\n与先进芯片远程访问有关的美国商务部临时最终规则，在 11月18日联邦公报已刊登期次里仍未出现，预览页仍写计划 11月19日刊登。因此，不能把预览、新闻稿或此前媒体讨论中的草案，写成已经对谷歌或 Gemini 生效的禁令。",
+      "sources": [
+        "谷歌官方博客《Introducing Gemini 4 Hydrogen》https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+        "联邦公报预览页与 11月18日已刊登期次（规则仍未见正式刊登）"
+      ],
+      "still_unseen": [
+        "未见该远程访问规则在联邦公报的正式刊登文本和已生效文本",
+        "未见谷歌官方就该规则发布的专门声明"
+      ],
+      "important_points": [
+        "谷歌官方博客介绍推出 Gemini 4 Hydrogen，页面日期是 11月12日，并写最后更新于 11月16日。这是公司产品稿。",
+        "相关远程访问规则仍未在联邦公报正式刊登，不能写成已经对谷歌或这款模型生效的禁令。"
+      ]
+    }
+  ]
+}

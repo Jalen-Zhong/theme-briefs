@@ -1,0 +1,23 @@
+{
+  "id": "openai",
+  "date": "2026-11-18",
+  "timezone": "Asia/Shanghai",
+  "entries": [
+    {
+      "slot": "18:00",
+      "important": false,
+      "headline": "仍无公开版上市登记；公司新闻室刊出 GPT-6.2 Astra 等产品与合作稿",
+      "x_circulation": "",
+      "public_record": "本档在美国证交会 EDGAR 系统以公司名 openai、表格类型 S-1 检索，结果是没有匹配的公司。因此，本档仍未见公开版上市登记，不能写成已经上市。\n\nOpenAI 新闻室可见 11月17日产品稿，标题包括《Introducing GPT-6.2 Astra and Sol》和《Introducing ChatGPT for Sales》；11月18日可见与法国费加罗报集团合作、把其新闻内容接入 ChatGPT 的公司稿。这些页面日期没有另标时刻。这些是产品与合作稿，不是证券发行文件，也不能用来补写上市时间表。公司 2026年6月8日关于向证交会保密提交草案登记声明的说明仍可打开，其中写尚未决定时间。那是旧稿，不是本档新的公开登记。",
+      "sources": [
+        "OpenAI 新闻室 https://openai.com/news/",
+        "EDGAR 以公司名 openai、表格类型 S-1 检索（结果为没有匹配的公司）",
+        "2026年6月8日保密提交说明 https://openai.com/index/openai-submits-confidential-s-1/"
+      ],
+      "still_unseen": [
+        "未见公开版登记声明、交易代码或交易所上市通知"
+      ],
+      "important_points": []
+    }
+  ]
+}
