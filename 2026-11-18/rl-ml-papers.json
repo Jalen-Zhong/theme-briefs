@@ -1,0 +1,21 @@
+{
+  "id": "rl-ml-papers",
+  "date": "2026-11-18",
+  "timezone": "Asia/Shanghai",
+  "entries": [
+    {
+      "slot": "18:00",
+      "important": false,
+      "headline": "日榜新见到持续递归自我改进记忆、以及智能体能否自建学习算法的预印本",
+      "x_circulation": "本档在全世界趋势榜上，未见这些论文标题或编号。检索见到一些账号转述 Self-Improvement Memory 这篇预印本，可见互动量有限，不写成已经形成高热讨论。有账号把该文写成谷歌或 DeepMind 的论文。本档打开的 arXiv 摘要页只列出作者姓名，未见机构字段，因此「谷歌 / DeepMind」只是社媒说法，不是摘要页已经写明的署名单位。ForceHarness、M3OPD-Reasoner 等其他今日条目，本档没有见到可核验的高热讨论。",
+      "public_record": "以下条目都是预印本，也就是还没有完成同行评审的公开稿，不是已经定稿的期刊论文。Self-Improvement Memory Enables Continual Recursive Self-Improvement（讨论给套件优化器加一层自我改进记忆，以便在模型或基准更换后继续做递归自我改进；主题属于递归自改进）[2611.18856](https://arxiv.org/abs/2611.18856)，出现在 Hugging Face 11月18日可以打开的日榜页面。Do LLM Agents Still Need to Be Told How to Self-Improve?（讨论在只给基本工具、资源和一个总目标的情况下，智能体能否自己构造基于上下文的自我学习算法；主题属于递归自改进）[2611.23219](https://arxiv.org/abs/2611.23219)，出现在同一日榜，也出现在本档已打开的 AlphaXiv 热门列表第一页。ForceHarness: Turning Force into Action and Physics for Frozen Frontier Models（讨论让不能改权重、只能调用接口的多模态模型，也能用接触力来控制机器人；主题是机器人动作，不是图像或视频生成）[2611.21099](https://arxiv.org/abs/2611.21099)，同样出现在日榜和已打开的热门列表第一页。\n\n补充可见、不升为主条：Regularized Score Centering（讨论在分数中心化上再加正则，以稳定异步、离策略强化学习）[2611.21791](https://arxiv.org/abs/2611.21791)；M3OPD-Reasoner: An Open Recipe for Post-Training Multimodal Reasoning with Multi-Teacher On-Policy Distillation（讨论用多教师同策略蒸馏，再加可验证奖励的强化学习，训练视觉语言模型的推理能力）[2611.23034](https://arxiv.org/abs/2611.23034)。这两篇都出现在 11月18日日榜，后一篇也出现在已打开的热门列表第一页。上一档已写的 ScaleVLA、Craftax、Latent Feedback 等条目，本档核验仍为第一版，不作为今日新主条。按既有范围，日榜里以扩散模型或图像、视频生成为主题的条目不写入本栏。",
+      "sources": [
+        "arXiv",
+        "Hugging Face 可以打开的 11月18日日榜页面 https://huggingface.co/papers/date/2026-11-18",
+        "AlphaXiv 可以打开的热门列表第一页"
+      ],
+      "still_unseen": [],
+      "important_points": []
+    }
+  ]
+}
