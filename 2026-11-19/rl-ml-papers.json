@@ -1,0 +1,22 @@
+{
+  "id": "rl-ml-papers",
+  "date": "2026-11-19",
+  "timezone": "Asia/Shanghai",
+  "entries": [
+    {
+      "slot": "18:00",
+      "important": false,
+      "headline": "日榜新见到决策模型递归自我改进、以及智能体如何识别改进的预印本",
+      "x_circulation": "本档在全世界趋势榜上，未见这些论文标题或编号。本档没有见到可核验的高热讨论。",
+      "public_record": "以下条目都是预印本，也就是还没有完成同行评审的公开稿，不是已经定稿的期刊论文。Piccolo: Co-Evolving Decision Models and Data through Recursive Self-Improvement（讨论让决策模型和数据一起演化，以便做递归自我改进；主题属于递归自改进）[2611.24651](https://arxiv.org/abs/2611.24651)，出现在 Hugging Face 11月19日可以打开的日榜页面。The Resolution Hypothesis: Agent Evolution's Key Is Identifying Improvements（讨论自我改进的智能体常常无法分清真正的改进和偶然波动；主题属于递归自改进）[2611.23068](https://arxiv.org/abs/2611.23068)，出现在同一日榜。Game2Player: Scaling Gameplay Experience for Visual Agents through Environment-Player Co-Development（讨论同时建设可验证的游戏环境和玩家策略，给视觉智能体提供可扩展的训练数据；主题是视觉智能体，不是图像或视频生成）[2611.24154](https://arxiv.org/abs/2611.24154)，同样出现在该日榜。\n\n补充可见、不升为主条：Thinking Fast, Anywhere: One System-1 for the Decision Points of Any Agent Workflow（讨论给智能体工作流里的决策点训练一个较快的决策模块）[2611.23751](https://arxiv.org/abs/2611.23751)；Evidence-Based Credit Assignment for Search-Augmented Language Models（讨论根据检索到的材料给搜索动作分配训练信号，并与只看最终对错的强化学习方法作比较）[2611.23824](https://arxiv.org/abs/2611.23824)。这两篇都出现在 11月19日日榜。上一档已写的 Self-Improvement Memory、Do LLM Agents Still Need to Be Told How to Self-Improve 等条目，本档不作为今日新主条。按既有范围，日榜里以扩散模型或图像、视频生成为主题的条目不写入本栏。本档打开 AlphaXiv 热门列表常用路径时得到找不到页面，因此本档以可以打开的日榜页面为准。",
+      "sources": [
+        "arXiv",
+        "Hugging Face 可以打开的 11月19日日榜页面 https://huggingface.co/papers/date/2026-11-19"
+      ],
+      "still_unseen": [
+        "本档打开 AlphaXiv 热门列表常用路径时得到找不到页面"
+      ],
+      "important_points": []
+    }
+  ]
+}
