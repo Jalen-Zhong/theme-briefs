@@ -1,0 +1,22 @@
+{
+  "id": "rl-ml-papers",
+  "date": "2026-11-20",
+  "timezone": "Asia/Shanghai",
+  "entries": [
+    {
+      "slot": "18:00",
+      "important": false,
+      "headline": "日榜新见到自主事后训练、自改进写内核，以及视觉语言导航的预印本",
+      "x_circulation": "",
+      "public_record": "以下条目都是预印本，也就是还没有完成同行评审的公开稿，不是已经定稿的期刊论文。文中的效果数字是作者在预印本里的表述，不是第三方已经裁定的结果。\n\nAutoMaster: Autonomous Post-Training by Making the Same Model a Better Teacher（讨论让同一模型通过设计技能说明，先改善教师模型的示范，再做事后训练；主题属于自主事后训练）[2611.26510](https://arxiv.org/abs/2611.26510)，出现在 Hugging Face 11月20日可以打开的日榜页面。CompoundingKernel: Self-Improving from Zero to First（讨论用自改进的搜索来编写图形处理器内核；主题属于递归自改进）[2611.19230](https://arxiv.org/abs/2611.19230)，出现在同一日榜。ZeroVLN: Learning to Navigate without Supervised Fine-Tuning of the VLM Brain（讨论在不先对视觉语言模型做导航领域监督微调的情况下，用闭环强化学习训练视觉语言导航；主题属于视觉语言和强化学习）[2611.26414](https://arxiv.org/abs/2611.26414)，同样出现在该日榜。\n\n补充可见、不升为主条：WAM-Policy: World Action Models with On-Policy Distillation for Quadrupedal Loco-Manipulation（讨论用在线策略蒸馏和强化学习，训练四足机器人完成边走边操作的任务）[2611.24011](https://arxiv.org/abs/2611.24011)，也出现在11月20日日榜。按既有范围，日榜里以扩散模型或图像、视频生成为主题的条目不写入本栏。本档没有打开 AlphaXiv 热门列表，因此本档以可以打开的日榜页面为准。",
+      "sources": [
+        "arXiv",
+        "Hugging Face 可以打开的 11月20日日榜页面 https://huggingface.co/papers/date/2026-11-20"
+      ],
+      "still_unseen": [
+        "本档没有打开 AlphaXiv 热门列表"
+      ],
+      "important_points": []
+    }
+  ]
+}

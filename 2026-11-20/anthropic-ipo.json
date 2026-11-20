@@ -1,0 +1,27 @@
+{
+  "id": "anthropic-ipo",
+  "date": "2026-11-20",
+  "timezone": "Asia/Shanghai",
+  "entries": [
+    {
+      "slot": "18:00",
+      "important": true,
+      "headline": "纳斯达克新闻室确认，Anthropic 股票已于11月19日在纳斯达克开始交易，代码是 ANT。本档未见交割已经完成的确认",
+      "x_circulation": "",
+      "public_record": "纳斯达克新闻室11月19日刊出稿件，标注时间是当天美东时间下午3:30，标题是「Anthropic Marks its IPO at Nasdaq」。正文写：Anthropic（代码 ANT）星期四在纳斯达克证券交易所开始交易。稿件还写，公司联合创始人达里奥·阿莫代和达妮埃拉·阿莫代在纳斯达克斯托克市场开盘铃仪式上致辞；财务负责人和商务负责人后来敲了收盘铃。这是交易所新闻室对已经开始交易的说明。上一档截稿时，美国当天的常规交易时段尚未开始，因此当时还没有把已经开始交易写入简报。\n\n纳斯达克交易技术通知「Data Technical News #2026-28」写于11月11日，把 Anthropic, PBC 的A类普通股交易代码写成 ANT，上市市场写成纳斯达克全球精选市场，上市日期写成2026年11月19日星期四，发行价写成每股83.00美元。这是上市前发给行情数据分发机构的技术通知，用来说明数据库应在11月19日加入这一新上市代码。\n\n公司11月18日新闻稿写，发行预计于11月20日交割，须满足惯常交割条件。本档截稿时约为上海时间18:00。按常见时区换算，美国纽约当天的常规交易时段尚未开始。本档未见交割已经完成的确认，也未见最终招股说明书在新闻稿所说渠道的完整文本。",
+      "sources": [
+        "纳斯达克新闻室：Anthropic Marks its IPO at Nasdaq https://www.nasdaq.com/newsroom/anthropic-marks-ipo-at-nasdaq",
+        "纳斯达克交易技术通知 Data Technical News #2026-28 https://www.nasdaqtrader.com/TraderNews.aspx?id=DTN2026-28",
+        "Anthropic 公司新闻稿（上一档已写入）https://www.anthropic.com/news/anthropic-prices-initial-public-offering"
+      ],
+      "still_unseen": [
+        "未见交割已经完成的确认",
+        "未见最终招股说明书在新闻稿所说渠道的完整文本"
+      ],
+      "important_points": [
+        "纳斯达克新闻室写，Anthropic 股票已于11月19日星期四在纳斯达克开始交易，代码是 ANT。",
+        "公司此前新闻稿写，发行预计于11月20日交割，须满足惯常交割条件。本档未见交割已经完成的确认。"
+      ]
+    }
+  ]
+}
