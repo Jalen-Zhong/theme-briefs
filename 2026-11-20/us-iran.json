@@ -1,0 +1,24 @@
+{
+  "id": "us-iran",
+  "date": "2026-11-20",
+  "timezone": "Asia/Shanghai",
+  "entries": [
+    {
+      "slot": "18:00",
+      "important": true,
+      "headline": "白宫发布特朗普在深圳接受福克斯新闻访谈的摘录，其中谈到伊朗谈判，以及他所说的化学、生物武器迹象",
+      "x_circulation": "",
+      "public_record": "白宫官网11月19日发布一篇题为「ICYMI: President Trump Talks China, Iran, Super Intelligence, and the Path Ahead in Exclusive Interview from Shenzhen」的稿件。稿件写，特朗普在与习近平、普京举行会晤前数小时，于深圳接受福克斯新闻独家直播访谈。这是白宫刊出的访谈摘录，不是一份专门针对伊朗的正式政策声明，也不是三方会晤后的宣言。\n\n在「关于伊朗」这一节，白宫摘录特朗普的话说：对方想达成协议，但他想要一份能够持久的协议；如果遇上不好的、软弱的总统，他希望这份协议能够超越总统本人；并说「无论用哪种方式，我们都会把它了结」。在「关于有关伊朗脏弹图谋的报道」这一节，白宫摘录特朗普的话说：有迹象表明，伊朗正在看毒气，也在看生物武器，还有其他东西，我们会再看；并说「如果真的发生，我们会把他们消灭」。这些都是白宫稿件里刊出的他的访谈表述，不是已经得到第三方核对的武器结论，也不能写成美国已经宣布采取某一项新的军事行动。\n\n本档打开的伊朗官方网页中，未见就白宫这篇访谈摘录发出的对应声明全文。这篇白宫稿件也不是三方「和平宣言」的一部分。",
+      "sources": [
+        "白宫：ICYMI: President Trump Talks China, Iran, Super Intelligence, and the Path Ahead in Exclusive Interview from Shenzhen https://www.whitehouse.gov/releases/2026/11/icymi-president-trump-talks-china-iran-super-intelligence-and-the-path-ahead-in-exclusive-interview-from-shenzhen/"
+      ],
+      "still_unseen": [
+        "未见伊朗官方就白宫这篇访谈摘录发出的对应声明全文"
+      ],
+      "important_points": [
+        "白宫发布了特朗普在深圳接受福克斯新闻访谈的摘录。摘录里，他谈到希望达成一份能够持久的伊朗协议，并说到他所称的化学、生物武器迹象。",
+        "这是白宫刊出的访谈表述，不是一份专门针对伊朗的正式政策声明。本档未见伊朗官方就这篇摘录发出的对应声明。"
+      ]
+    }
+  ]
+}
