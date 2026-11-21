@@ -1,0 +1,22 @@
+{
+  "id": "rl-ml-papers",
+  "date": "2026-11-21",
+  "timezone": "Asia/Shanghai",
+  "entries": [
+    {
+      "slot": "18:00",
+      "important": false,
+      "headline": "本档打开的Hugging Face日榜页面，日期仍写11月20日，未见单独的11月21日日榜",
+      "x_circulation": "",
+      "public_record": "本档打开了Hugging Face按日期排列的日榜页面，地址里写的是2026-11-21。页面里可以读到的日期字段仍是2026-11-20，列出的条目与上一档已经写入的11月20日日榜是同一份名单，包括上一档已经作为主条写下的Anonymous Post-Training（讨论让同一模型通过设计技能说明，先改善教师模型的示范，再做事后训练）[2611.26510](https://arxiv.org/abs/2611.26510)、CompoundingKernel（讨论用自改进的搜索来编写图形处理器内核）[2611.19230](https://arxiv.org/abs/2611.19230)，以及ZeroVLN（讨论在不先对视觉语言模型做导航领域监督微调的情况下，用闭环强化学习训练视觉语言导航）[2611.26414](https://arxiv.org/abs/2611.26414)。因此，本档不再把同一份名单重新作为新的日榜主条写下。本档没有打开AlphaXiv热门列表，也没有见到一份日期明确写为11月21日的新日榜。",
+      "sources": [
+        "Hugging Face 可以打开的日榜页面（页面日期字段仍写11月20日）https://huggingface.co/papers/date/2026-11-21"
+      ],
+      "still_unseen": [
+        "未见日期明确写为11月21日的Hugging Face日榜",
+        "本档没有打开AlphaXiv热门列表"
+      ],
+      "important_points": []
+    }
+  ]
+}
