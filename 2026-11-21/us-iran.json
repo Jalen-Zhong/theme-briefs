@@ -1,0 +1,25 @@
+{
+  "id": "us-iran",
+  "date": "2026-11-21",
+  "timezone": "Asia/Shanghai",
+  "entries": [
+    {
+      "slot": "18:00",
+      "important": true,
+      "headline": "伊通社刊出外交部发言人巴盖伊的表态：他把美国官员所说伊朗存在发展化学、生物武器迹象的说法称为「大谎言」",
+      "x_circulation": "",
+      "public_record": "伊朗官方通讯社伊通社英文稿标题是「Baqaei: US claim regarding Iran’s development of chemical and biological weapons is a big lie」。页面上的时间写为 Nov. 20, 2026, 12:29 a.m.，新闻编号是 86327143。稿件未另标明时区。这是上一档截稿时还没有写入的伊朗官方通讯社稿。\n\n稿件写，外交部发言人巴盖伊是在回应美国官员关于伊朗存在发展化学、生物武器「迹象」的新说法。伊通社写，他在自己的X账号发文称：在编造「伊朗核威胁」这一「大谎言」之后，美国官员现在又声称，有迹象表明伊朗正在发展生物或化学武器。稿件随后写，指控内容在变，但背后的叙事令人不安地眼熟；并提到2003年时任美国国务卿鲍威尔在联合国安理会展示小瓶、用以说明伊拉克大规模杀伤性武器威胁的那一场出现。巴盖伊在伊通社刊出的这段文字里问：世界是否已经从2003年的灾难性教训中学到东西，还是会再次让公众被大规模欺骗。这些都是伊通社英文稿里刊出的发言人表述。\n\n这是伊朗官方通讯社刊出的发言人表态，不是一份在伊朗外交部网站上单独打开的声明全文。上一档写入的白宫稿件，是特朗普在深圳接受福克斯新闻访谈的摘录，其中有他所说的化学、生物武器迹象。本档仍把那篇白宫稿件只写成白宫刊出的访谈表述，不是已经得到第三方核对的武器结论，也不能写成美国已经宣布采取某一项新的军事行动。",
+      "sources": [
+        "伊通社英文稿：Baqaei: US claim regarding Iran’s development of chemical and biological weapons is a big lie https://irna.com/en/news/86327143/",
+        "白宫：ICYMI: President Trump Talks China, Iran, Super Intelligence, and the Path Ahead in Exclusive Interview from Shenzhen https://www.whitehouse.gov/releases/2026/11/icymi-president-trump-talks-china-iran-super-intelligence-and-the-path-ahead-in-exclusive-interview-from-shenzhen/"
+      ],
+      "still_unseen": [
+        "未见伊朗外交部网站上就白宫这篇访谈摘录发出的单独声明全文"
+      ],
+      "important_points": [
+        "伊通社英文稿刊出外交部发言人巴盖伊的表态。稿件写，他把美国官员所说伊朗存在发展化学、生物武器迹象的说法称为「大谎言」。",
+        "这是伊朗官方通讯社刊出的发言人表态，不是一份在伊朗外交部网站上单独打开的声明。白宫那篇访谈摘录，仍只写成白宫刊出的表述。"
+      ]
+    }
+  ]
+}
