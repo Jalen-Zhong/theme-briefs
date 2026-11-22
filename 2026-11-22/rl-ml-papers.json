@@ -1,0 +1,26 @@
+{
+  "id": "rl-ml-papers",
+  "date": "2026-11-22",
+  "timezone": "Asia/Shanghai",
+  "entries": [
+    {
+      "slot": "18:00",
+      "important": false,
+      "headline": "Hugging Face 11月21日和11月22日日榜接口返回空列表，可见名单仍是11月20日那一份",
+      "x_circulation": "",
+      "public_record": "本档再次核对了Hugging Face日榜。接口 https://huggingface.co/api/daily_papers?date=2026-11-21 和 https://huggingface.co/api/daily_papers?date=2026-11-22 返回的都是空列表；https://huggingface.co/api/daily_papers?date=2026-11-20 仍返回11月20日那一份名单。按日期打开 https://huggingface.co/papers/date/2026-11-21 和 https://huggingface.co/papers/date/2026-11-22 ，列出的也是与11月20日相同的名单。因此，本档不再把这份名单当作新的日榜主条写下。上一档已经写过的AutoMaster、CompoundingKernel、ZeroVLN等条目，也不再重写。\n\n本档打开了AlphaXiv首页的Explore列表 https://www.alphaxiv.org/ 。页面可见条目包括Composable Soft-Prompt Distillation of RL Experts（讨论用可组合的软提示来蒸馏强化学习专家）、Mind2Act World、A CPU Inside an LLM（讨论在预训练权重里编译精确电路）等。首页可见部分没有为每条给出可核验的arXiv编号，因此不把这些条目写成已经逐篇核对完毕的论文页。这些预印本通常还没有经过同行评审。",
+      "sources": [
+        "Hugging Face 日榜接口（2026-11-21，返回空列表）https://huggingface.co/api/daily_papers?date=2026-11-21",
+        "Hugging Face 日榜接口（2026-11-22，返回空列表）https://huggingface.co/api/daily_papers?date=2026-11-22",
+        "Hugging Face 日榜接口（2026-11-20）https://huggingface.co/api/daily_papers?date=2026-11-20",
+        "Hugging Face 按日期打开的页面 https://huggingface.co/papers/date/2026-11-21 、https://huggingface.co/papers/date/2026-11-22",
+        "AlphaXiv 首页 Explore 列表 https://www.alphaxiv.org/"
+      ],
+      "still_unseen": [
+        "未见日期单独标明为11月21日或11月22日、并且接口也有对应条目的Hugging Face新日榜",
+        "AlphaXiv首页可见部分没有为每条给出可核验的arXiv编号，本档未逐篇打开论文页"
+      ],
+      "important_points": []
+    }
+  ]
+}
