@@ -1,0 +1,28 @@
+{
+  "id": "rl-ml-papers",
+  "date": "2026-11-22",
+  "timezone": "Asia/Shanghai",
+  "entries": [
+    {
+      "slot": "18:00",
+      "important": false,
+      "headline": "Hugging Face按11月21日和11月22日打开的日榜名单相同，本档补充写出其中几篇新的强化学习、视觉语言和自改进预印本",
+      "x_circulation": "",
+      "public_record": "本档打开了Hugging Face日榜页面 https://huggingface.co/papers/date/2026-11-21 和 https://huggingface.co/papers/date/2026-11-22 。两个地址列出的名单相同，页面可见部分没有单独写明「11月22日」的日期标题。第三方页面FlowSynt把同一类名单标为11月21日日榜。名单里仍包括上一档已经写过的AutoMaster（讨论让同一模型先改善教师示范，再做事后训练）[2611.26510](https://arxiv.org/abs/2611.26510)、CompoundingKernel（讨论用自改进搜索编写图形处理器内核）[2611.19230](https://arxiv.org/abs/2611.19230)，以及ZeroVLN（讨论在不对视觉语言模型做导航领域监督微调的情况下训练视觉语言导航）[2611.26414](https://arxiv.org/abs/2611.26414)。本档不再把这三篇当作新的日榜主条重写。\n\n同一名单里，此前未作为主条写下、并且属于本栏关注范围的预印本还包括：Language Models Can Rewrite Their Own Weights（讨论语言模型在不用梯度训练的情况下改写自身权重）[2611.21885](https://arxiv.org/abs/2611.21885)；Teaching Vision-Language-Action Models to Stop Safely（讨论训练视觉-语言-动作模型在接管后安全停止）[2611.26239](https://arxiv.org/abs/2611.26239)；Probing the “Conscious” Mind: Selective Access and Global Workspace in Vision-Language Models（讨论视觉语言模型里的选择性读取和全局工作空间式处理）[2611.26590](https://arxiv.org/abs/2611.26590)；On-Policy Morphing into Hybrid Attention Models（讨论在混合注意力模型里做在线策略式的层选择）[2611.24809](https://arxiv.org/abs/2611.24809)。这些都是预印本，通常还没有经过同行评审。名单里还有多篇图像或视频生成、以及扩散模型方向的条目，按既定范围不写入本栏。本档没有打开AlphaXiv热门列表。",
+      "sources": [
+        "Hugging Face 日榜（按11月21日日期打开）https://huggingface.co/papers/date/2026-11-21",
+        "Hugging Face 日榜（按11月22日日期打开，名单与上一条相同）https://huggingface.co/papers/date/2026-11-22",
+        "FlowSynt：Hugging Face daily | 21/Nov, 2026 https://news.flowsynt.com/hugging-face-daily-21-nov-2026/",
+        "arXiv: Language Models Can Rewrite Their Own Weights https://arxiv.org/abs/2611.21885",
+        "arXiv: Teaching Vision-Language-Action Models to Stop Safely https://arxiv.org/abs/2611.26239",
+        "arXiv: Probing the “Conscious” Mind: Selective Access and Global Workspace in Vision-Language Models https://arxiv.org/abs/2611.26590",
+        "arXiv: On-Policy Morphing into Hybrid Attention Models https://arxiv.org/abs/2611.24809"
+      ],
+      "still_unseen": [
+        "Hugging Face页面可见部分没有单独写明「11月22日」的日期标题，11月21日与11月22日两个地址目前名单相同",
+        "本档没有打开AlphaXiv热门列表"
+      ],
+      "important_points": []
+    }
+  ]
+}
