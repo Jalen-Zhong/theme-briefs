@@ -6,21 +6,19 @@
     {
       "slot": "18:00",
       "important": false,
-      "headline": "Hugging Face按11月21日和11月22日打开的日榜名单相同，本档补充写出其中几篇新的强化学习、视觉语言和自改进预印本",
+      "headline": "Hugging Face 11月21日和11月22日日榜接口返回空列表，可见名单仍是11月20日那一份",
       "x_circulation": "",
-      "public_record": "本档打开了Hugging Face日榜页面 https://huggingface.co/papers/date/2026-11-21 和 https://huggingface.co/papers/date/2026-11-22 。两个地址列出的名单相同，页面可见部分没有单独写明「11月22日」的日期标题。第三方页面FlowSynt把同一类名单标为11月21日日榜。名单里仍包括上一档已经写过的AutoMaster（讨论让同一模型先改善教师示范，再做事后训练）[2611.26510](https://arxiv.org/abs/2611.26510)、CompoundingKernel（讨论用自改进搜索编写图形处理器内核）[2611.19230](https://arxiv.org/abs/2611.19230)，以及ZeroVLN（讨论在不对视觉语言模型做导航领域监督微调的情况下训练视觉语言导航）[2611.26414](https://arxiv.org/abs/2611.26414)。本档不再把这三篇当作新的日榜主条重写。\n\n同一名单里，此前未作为主条写下、并且属于本栏关注范围的预印本还包括：Language Models Can Rewrite Their Own Weights（讨论语言模型在不用梯度训练的情况下改写自身权重）[2611.21885](https://arxiv.org/abs/2611.21885)；Teaching Vision-Language-Action Models to Stop Safely（讨论训练视觉-语言-动作模型在接管后安全停止）[2611.26239](https://arxiv.org/abs/2611.26239)；Probing the “Conscious” Mind: Selective Access and Global Workspace in Vision-Language Models（讨论视觉语言模型里的选择性读取和全局工作空间式处理）[2611.26590](https://arxiv.org/abs/2611.26590)；On-Policy Morphing into Hybrid Attention Models（讨论在混合注意力模型里做在线策略式的层选择）[2611.24809](https://arxiv.org/abs/2611.24809)。这些都是预印本，通常还没有经过同行评审。名单里还有多篇图像或视频生成、以及扩散模型方向的条目，按既定范围不写入本栏。本档没有打开AlphaXiv热门列表。",
+      "public_record": "本档再次核对了Hugging Face日榜。接口 https://huggingface.co/api/daily_papers?date=2026-11-21 和 https://huggingface.co/api/daily_papers?date=2026-11-22 返回的都是空列表；https://huggingface.co/api/daily_papers?date=2026-11-20 仍返回11月20日那一份名单。按日期打开 https://huggingface.co/papers/date/2026-11-21 和 https://huggingface.co/papers/date/2026-11-22 ，列出的也是与11月20日相同的名单。因此，本档不再把这份名单当作新的日榜主条写下。上一档已经写过的AutoMaster、CompoundingKernel、ZeroVLN等条目，也不再重写。\n\n本档打开了AlphaXiv首页的Explore列表 https://www.alphaxiv.org/ 。页面可见条目包括Composable Soft-Prompt Distillation of RL Experts（讨论用可组合的软提示来蒸馏强化学习专家）、Mind2Act World、A CPU Inside an LLM（讨论在预训练权重里编译精确电路）等。首页可见部分没有为每条给出可核验的arXiv编号，因此不把这些条目写成已经逐篇核对完毕的论文页。这些预印本通常还没有经过同行评审。",
       "sources": [
-        "Hugging Face 日榜（按11月21日日期打开）https://huggingface.co/papers/date/2026-11-21",
-        "Hugging Face 日榜（按11月22日日期打开，名单与上一条相同）https://huggingface.co/papers/date/2026-11-22",
-        "FlowSynt：Hugging Face daily | 21/Nov, 2026 https://news.flowsynt.com/hugging-face-daily-21-nov-2026/",
-        "arXiv: Language Models Can Rewrite Their Own Weights https://arxiv.org/abs/2611.21885",
-        "arXiv: Teaching Vision-Language-Action Models to Stop Safely https://arxiv.org/abs/2611.26239",
-        "arXiv: Probing the “Conscious” Mind: Selective Access and Global Workspace in Vision-Language Models https://arxiv.org/abs/2611.26590",
-        "arXiv: On-Policy Morphing into Hybrid Attention Models https://arxiv.org/abs/2611.24809"
+        "Hugging Face 日榜接口（2026-11-21，返回空列表）https://huggingface.co/api/daily_papers?date=2026-11-21",
+        "Hugging Face 日榜接口（2026-11-22，返回空列表）https://huggingface.co/api/daily_papers?date=2026-11-22",
+        "Hugging Face 日榜接口（2026-11-20）https://huggingface.co/api/daily_papers?date=2026-11-20",
+        "Hugging Face 按日期打开的页面 https://huggingface.co/papers/date/2026-11-21 、https://huggingface.co/papers/date/2026-11-22",
+        "AlphaXiv 首页 Explore 列表 https://www.alphaxiv.org/"
       ],
       "still_unseen": [
-        "Hugging Face页面可见部分没有单独写明「11月22日」的日期标题，11月21日与11月22日两个地址目前名单相同",
-        "本档没有打开AlphaXiv热门列表"
+        "未见日期单独标明为11月21日或11月22日、并且接口也有对应条目的Hugging Face新日榜",
+        "AlphaXiv首页可见部分没有为每条给出可核验的arXiv编号，本档未逐篇打开论文页"
       ],
       "important_points": []
     }
