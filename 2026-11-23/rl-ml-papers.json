@@ -1,0 +1,30 @@
+{
+  "id": "rl-ml-papers",
+  "date": "2026-11-23",
+  "timezone": "Asia/Shanghai",
+  "entries": [
+    {
+      "slot": "18:00",
+      "important": false,
+      "headline": "Hugging Face 刊出11月23日日榜，接口返回16篇；其中有把递归自改进用于空中导航的AeroRSI，以及视觉语言模型StereoVLM等。11月21日和11月22日接口仍是空列表",
+      "x_circulation": "",
+      "public_record": "本档打开了Hugging Face日期为2026年11月23日的日榜。接口 https://huggingface.co/api/daily_papers?date=2026-11-23 返回16篇，页面 https://huggingface.co/papers/date/2026-11-23 列出的是同一批名单。这是本档首次打开的、日期单独标明为11月23日并且接口也有对应条目的新日榜。这些条目多数是预印本，通常还没有经过同行评审。\n\n按本栏重点，先写下这几篇。AeroRSI: Recursive Self-Improvement for Aerial Vision-Language Navigation，作者包括Shiwei Wu、Yuwen Pan、Zhi Li等人，地址是 https://arxiv.org/abs/2611.24077 。这篇讨论的是递归自改进（模型根据自己的失败再学习）用在空中视觉语言导航里。StereoVLM: Binocular Vision-Language Models for Metric 3D Spatial Reasoning，作者包括Chi Yan、Guoyang Zhao、Wentao Yuan等人，地址是 https://arxiv.org/abs/2611.27915 。这篇讨论的是双目视觉语言模型，用来做有度量的三维空间推理。cmHC: Balancing Stream Mixing in Hyper-Connections via Geometric Contraction，作者包括Haowei He、Ziwen Zhao、Chenshuo Pan等人，地址是 https://arxiv.org/abs/2611.27193 。这篇讨论的是用几何收缩来改进超连接里多条残差支路的混合，属于基础结构方法。MemOnce: A Scalable Memory Architecture for Large Language Models，作者包括Chang Nie、Chaoyou Fu、Songlin Liu等人，地址是 https://arxiv.org/abs/2611.27973 。这篇讨论的是可扩展的语言模型记忆结构。Duopra: From Full-Duplex Conversation to Full-Duplex Agency，作者包括Chiyu Chen、Pengzhou Cheng、Yuezhao Ma等人，地址是 https://arxiv.org/abs/2611.25773 。这篇讨论的是从全双工对话到全双工代理。\n\n同一份16篇名单里，还有图像超分辨率、面向图像生成的提示词增强、视频编辑的奖励模型，以及与视频世界模型有关的条目。按既有范围，这些不作为本栏主条展开。\n\n接口 https://huggingface.co/api/daily_papers?date=2026-11-21 和 https://huggingface.co/api/daily_papers?date=2026-11-22 返回的仍是空列表。因此，本档不把11月20日那一份旧名单再当作新日榜重写。",
+      "sources": [
+        "Hugging Face 日榜接口（2026-11-23，返回16篇）https://huggingface.co/api/daily_papers?date=2026-11-23",
+        "Hugging Face 按日期打开的页面 https://huggingface.co/papers/date/2026-11-23",
+        "Hugging Face 日榜接口（2026-11-21，返回空列表）https://huggingface.co/api/daily_papers?date=2026-11-21",
+        "Hugging Face 日榜接口（2026-11-22，返回空列表）https://huggingface.co/api/daily_papers?date=2026-11-22",
+        "AeroRSI https://arxiv.org/abs/2611.24077",
+        "StereoVLM https://arxiv.org/abs/2611.27915",
+        "cmHC https://arxiv.org/abs/2611.27193",
+        "MemOnce https://arxiv.org/abs/2611.27973",
+        "Duopra https://arxiv.org/abs/2611.25773"
+      ],
+      "still_unseen": [
+        "未见日期单独标明为11月21日或11月22日、并且接口也有对应条目的Hugging Face日榜",
+        "本档未把11月23日日榜16篇全部打开逐篇核对，图像、视频生成相关条目按既有范围未展开"
+      ],
+      "important_points": []
+    }
+  ]
+}
