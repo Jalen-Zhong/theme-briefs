@@ -1,0 +1,27 @@
+{
+  "id": "crude-oil",
+  "date": "2026-11-24",
+  "timezone": "Asia/Shanghai",
+  "entries": [
+    {
+      "slot": "18:00",
+      "important": false,
+      "headline": "芝加哥商品交易所集团11月23日能源日刊里，西德克萨斯原油12月合约结算价仍是83.98美元/桶、变动为持平；成交主要在1月合约，结算价是80.17美元/桶",
+      "x_circulation": "",
+      "public_record": "本档打开了芝加哥商品交易所集团日刊索引页，以及当前能源期货日刊PDF。能源日刊页眉写的是2026 DAILY INFORMATION BULLETIN，PG61 BULLETIN # 226@，日期是Mon, Nov 23, 2026。本档只按页眉原文引用，不把它写成已经确定的最终日刊。\n\n日刊结算栏里，CL FUT NYMEX CRUDE OIL (PHYSICAL)的DEC26结算价是83.98，变动是UNCH，也就是与前一交易日持平。这一行的成交量很小。同表JAN27结算价是80.17，变动是-3.24，成交量明显更大。12月合约和1月合约是两个不同的合约月份，不能加成一个数。本档把这两行分开记录。\n\n同一份日刊里，BZ FUT NYMEX BRENT OIL LAST DAY FUTURES的JAN27结算价是89.37，变动是-3.20。这是纽约商品交易所的布伦特末日合约日刊数字，不是伦敦洲际交易所自己的官方结算页。本档仍未能打开洲际交易所的官方结算页。未见11月24日的能源日刊。",
+      "sources": [
+        "芝加哥商品交易所集团日刊索引页 https://www.cmegroup.com/market-data/daily-bulletin.html",
+        "芝加哥商品交易所集团能源期货日刊（页眉 Mon, Nov 23, 2026）https://www.cmegroup.com/daily_bulletin/current/Section61_Energy_Futures_Products.pdf"
+      ],
+      "still_unseen": [
+        "未见芝加哥商品交易所集团标明为最终日刊的11月23日文本，本档打开的是页眉带@、日期为Mon, Nov 23, 2026的当前日刊",
+        "未见伦敦洲际交易所布伦特原油的官方结算页",
+        "未见11月24日能源日刊",
+        "未见西德克萨斯原油现货的官方结算"
+      ],
+      "important_points": [
+        "芝加哥商品交易所集团11月23日能源日刊里，西德克萨斯原油12月合约结算价仍是83.98美元/桶、变动为持平；成交主要在1月合约，结算价是80.17美元/桶。"
+      ]
+    }
+  ]
+}

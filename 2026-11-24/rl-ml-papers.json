@@ -1,0 +1,26 @@
+{
+  "id": "rl-ml-papers",
+  "date": "2026-11-24",
+  "timezone": "Asia/Shanghai",
+  "entries": [
+    {
+      "slot": "18:00",
+      "important": false,
+      "headline": "Hugging Face已刊出日期标明为11月24日的日榜，接口返回17篇。符合本栏重点的包括Self-WSP、把强化学习专家做软提示蒸馏的研究，以及两篇视觉语言模型相关论文",
+      "x_circulation": "",
+      "public_record": "Hugging Face 日榜接口 https://huggingface.co/api/daily_papers?date=2026-11-24 返回17篇，对应页面是 https://huggingface.co/papers/date/2026-11-24 。这些预印本通常还没有经过同行评审。\n\n符合本栏重点的包括：Self-WSP：Can Language Models Improve Themselves Through Weight-Space Programming，讨论语言模型能否通过权重空间编程来改进自己，地址是 https://arxiv.org/abs/2611.28833 。Composable Soft-Prompt Distillation of RL Experts: Toward Continual Post-Training，讨论把强化学习专家做可组合的软提示蒸馏，用于持续的训练后阶段，地址是 https://arxiv.org/abs/2611.27376 。A Glimpse of Training VLMs as Foundation Models for Robotic Manipulation，讨论把视觉语言模型（同时处理图像和文字的模型）训练成机器人操作的基础模型，地址是 https://arxiv.org/abs/2611.29338 。Polytropos: What Do Vision-Language Model Descriptions Make of a Cultural Object，讨论视觉语言模型对文化物品的描述，地址是 https://arxiv.org/abs/2611.29355 。同一名单里还有Embo-Harness、AutoPILOT、WorldLeague、WeMM-Ecom、RUIBench、UUBench、Distilling Visual Agents from Limited Interaction Experience，以及HIVE-Bench等与代理、视觉或机器人界面有关的条目。\n\n同一份17篇名单里，还有Motion Mamba 2.0（自回归扩散的人体动作生成）、ViDecide（视频扩散模型）、3AGameFactory-Motion、Plan4D和GameAnything等与扩散模型、视频或可玩游戏世界生成有关的条目。按既有范围，这些不作为本栏主条展开。",
+      "sources": [
+        "Hugging Face 日榜接口（2026-11-24，返回17篇）https://huggingface.co/api/daily_papers?date=2026-11-24",
+        "Hugging Face 按日期打开的页面 https://huggingface.co/papers/date/2026-11-24",
+        "Self-WSP https://arxiv.org/abs/2611.28833",
+        "Composable Soft-Prompt Distillation of RL Experts https://arxiv.org/abs/2611.27376",
+        "A Glimpse of Training VLMs as Foundation Models for Robotic Manipulation https://arxiv.org/abs/2611.29338",
+        "Polytropos https://arxiv.org/abs/2611.29355"
+      ],
+      "still_unseen": [
+        "本档未把11月24日日榜17篇全部打开逐篇核对，扩散模型和图像、视频生成相关条目按既有范围未展开"
+      ],
+      "important_points": []
+    }
+  ]
+}
