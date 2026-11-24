@@ -1,0 +1,26 @@
+{
+  "id": "gold",
+  "date": "2026-11-24",
+  "timezone": "Asia/Shanghai",
+  "entries": [
+    {
+      "slot": "18:00",
+      "important": false,
+      "headline": "芝加哥商品交易所集团11月23日金属日刊里，COMEX黄金12月合约结算价是3651.40美元/盎司",
+      "x_circulation": "",
+      "public_record": "本档打开了芝加哥商品交易所集团日刊索引页，以及当前金属期货日刊PDF。索引页写：Below is the previous trade date Daily Bulletin；初步日刊大约在下一个营业日凌晨12:00中部时间更新，最终日刊在下一个营业日上午10:00中部时间更新。金属日刊页眉写的是2026 DAILY INFORMATION BULLETIN，PG62 BULLETIN # 226@，日期是Mon, Nov 23, 2026。本档只按页眉原文引用，不把它写成已经确定的最终日刊。\n\n日刊结算栏里，GC FUT COMEX GOLD FUTURES的DEC26结算价是3651.40，变动是+136.00。成交主要在12月合约。同表NOV26结算价是3649.20，FEB27结算价是3681.70，这些是另外的合约月份，不能与12月合约加成一个数。同一份日刊里还有1盎司黄金期货等其他合约，本档以COMEX黄金期货12月合约结算栏为准，不把其他合约的数字写成这一栏的结算价。本档未见黄金现货官方结算，也未见伦敦市场的官方结算页。",
+      "sources": [
+        "芝加哥商品交易所集团日刊索引页 https://www.cmegroup.com/market-data/daily-bulletin.html",
+        "芝加哥商品交易所集团金属期货日刊（页眉 Mon, Nov 23, 2026）https://www.cmegroup.com/daily_bulletin/current/Section62_Metals_Futures_Products.pdf"
+      ],
+      "still_unseen": [
+        "未见芝加哥商品交易所集团标明为最终日刊的11月23日文本，本档打开的是页眉带@、日期为Mon, Nov 23, 2026的当前日刊",
+        "未见11月24日金属日刊；今天上海时间18:00对应美国中部时间星期二凌晨，最终日刊按索引页说明要到当天上午10:00中部时间才更新",
+        "未见黄金现货官方结算"
+      ],
+      "important_points": [
+        "芝加哥商品交易所集团11月23日金属日刊里，COMEX黄金12月合约结算价是3651.40美元/盎司。"
+      ]
+    }
+  ]
+}
